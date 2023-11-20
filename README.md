@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://contentstatic.techgig.com/photo/87903668.cms" />
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://veeranganamalav.github.io/](https://veeranganamalav.github.io/)
 
